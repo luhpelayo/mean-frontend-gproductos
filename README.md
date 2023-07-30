@@ -1,3 +1,13 @@
+# Gestionar Productos con bootstrap5, toastr, fontAwesome 
+
+[![crear.png](https://i.postimg.cc/BbhLKBqb/crear.png)](https://postimg.cc/p5FLN85M)
+
+[![listacrea.png](https://i.postimg.cc/xdKXR20W/listacrea.png)](https://postimg.cc/kVgMJLRc)
+
+[![editar-mean.png](https://i.postimg.cc/yxNWs3FH/editar-mean.png)](https://postimg.cc/0ML9CQWW)
+
+[![lista-editar.png](https://i.postimg.cc/hP6hRjvk/lista-editar.png)](https://postimg.cc/w759h9h2)
+
 # MeanFrontendGproductos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
